@@ -13,3 +13,9 @@
   Привет всем! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+### :woman_technologist: Обо мне :
+
+Я студентка 2 курса КИПУ направления "Прикладная информатика" <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+--- 
+:globe_with_meridians:	Практикуюсь и постигаю навыки программирования
+
