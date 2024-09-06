@@ -25,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
   </div>
   
-### :fire: Моя статистика :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladlenalutsyuk)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
