@@ -14,7 +14,7 @@
     "paths": {
       "@/*": ["src/*"]
     },
-    "types": ["vite/client", "vue-toastification", "vue-router"]
+    "types": ["vite/client", "vue-toastification", "vue-router", "leaflet"]
   },
   "include": ["src/**/*", "src/**/*.vue", "src/types/**/*.d.ts"],
   "exclude": ["node_modules"]
